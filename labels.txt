@@ -1,0 +1,2 @@
+0 white_enemy
+1 black_friend
